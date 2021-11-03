@@ -1,6 +1,7 @@
 # Crypto_Sentiment
 Cryptocurrency Comparison and Sentiment Analysis Tool
 
+<h2> Project Overview: <br>
 The tool is built around 3 main ideas:
 1) Cryptocurrency Price Data - USD traded products from Coinbase Pro API (cbpro)
 2) Tweet Sentiment Analysis - Tweets retrieved from the Twitter using the Twitter API (tweepy) and TextBlob for sentiment analysis
