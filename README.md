@@ -2,7 +2,7 @@
 Cryptocurrency Comparison and Sentiment Analysis Tool
 
 Project Overview:
-<h4>The tool is built around 3 main ideas: 
+The tool is built around 3 main ideas: 
 1) Cryptocurrency Price Data - USD traded products from Coinbase Pro API (cbpro) 
 2) Tweet Sentiment Analysis - Tweets retrieved from the Twitter using the Twitter API (tweepy) and TextBlob for sentiment analysis
 3) Dash + Ploty - Organizing the crypto + tweet data into a python web application with callbacks and dynamic updating, providing a side-by-side view of competing cryptocurrencies and the overall attitude of recent and related tweets to the coin ticker/symbol.
