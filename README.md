@@ -1,4 +1,4 @@
-# Cryptocurrency Comparison and Sentiment Analysis Tool: Project Overview
+<h2># Cryptocurrency Comparison and Sentiment Analysis Tool: Project Overview</h2>
 * Created a web app using python dash to compare prices between two cryptocurrencies side-by-side and simultaneously search tweets about the cryptocurrencies and perform a basic negative/positive sentiment analysis.
 * Dash web application houses the data and includes a dropdown list of all current products available on Coinbase Pro that have a USD trading pair.
 * Selecting cryptocurrencies from the dropdown lists automatically updates the price chart and tweet sentiment analysis.
