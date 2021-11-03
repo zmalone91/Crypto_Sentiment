@@ -19,7 +19,7 @@ import tweepy
 from tweepy import Stream
 from textblob import TextBlob
 from wordcloud import WordCloud
-# Save API keys in twitter_keys.py
+# Saved API keys in twitter_keys.py module in site-packages folder
 from twitter_keys import consumer_key, consumer_secret, access_token, access_token_secret
 # Create authentication object using OAuth 2
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
