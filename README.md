@@ -1,6 +1,6 @@
 # Crypto_Sentiment
-Cryptocurrency Comparison and Sentiment Analysis Tool
-
+<h2>Cryptocurrency Comparison and Sentiment Analysis Tool</h2>
+<br>
 <h2> Project Overview: </h2><br>
 The tool is built around 3 main ideas:
 1) Cryptocurrency Price Data - USD traded products from Coinbase Pro API (cbpro)
